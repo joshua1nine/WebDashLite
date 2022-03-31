@@ -1,0 +1,103 @@
+html,
+body {
+	height: 500px;
+	width: 300px;
+	overflow-y: scroll;
+	overflow-x: hidden;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-family: 'Open Sans';
+	background: #202020;
+	color: white;
+}
+
+/* width */
+::-webkit-scrollbar {
+	width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+	background: #f1f1f100;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+	background: #2b2b2b;
+	border-radius: 20px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+	background: #d64045;
+}
+
+a {
+	color: #d64045;
+}
+
+header {
+	text-align: center;
+	background-color: #d64045;
+}
+
+.logo {
+	color: #fff;
+}
+
+.links {
+	margin: 6px 0 10px 0;
+	text-align: center;
+}
+
+.links a {
+	font-size: 16px;
+}
+
+h1 {
+	font-weight: 700;
+	color: #d64045;
+	margin: 0;
+	padding: 10px;
+}
+
+.site {
+	display: flex;
+	align-items: center;
+	font-size: 18px;
+	padding: 0 12px;
+}
+
+.site:hover {
+	background-color: #2b2b2b;
+}
+
+.btns {
+	display: flex;
+	margin-left: auto;
+}
+
+.btn {
+	fill: #fff;
+	margin-left: 6px;
+	padding: 4px;
+	width: 20px;
+	height: 20px;
+	text-transform: uppercase;
+}
+
+.btn:hover {
+	color: #d64045;
+}
+
+.btn.disabled {
+	color: gray;
+	cursor: default;
+}
+
+.btn.disabled:hover {
+	color: none;
+}
