@@ -1,5 +1,89 @@
 {
-	"title": "Arena",
-	"siteUrl": "https://www.firelakearena.com/",
-	"adminUrl": "https://www.firelakearena.com/jach/"
+	"sites": [
+		{
+			"name": "Arena",
+			"publicUrl": "https://www.firelakearena.com/",
+			"adminUrl": "https://www.firelakearena.com/jach/"
+		},
+		{
+			"name": "Balloon Fest",
+			"publicUrl": "https://www.firelakeballoonfest.com/",
+			"adminUrl": "https://www.firelakeballoonfest.com/azhenik/"
+		},
+		{
+			"name": "Ballpark",
+			"publicUrl": "http://www.theballfieldsatfirelake.com/",
+			"adminUrl": "http://www.theballfieldsatfirelake.com/login"
+		},
+		{
+			"name": "Batch Plant",
+			"publicUrl": "https://www.cpnbatchplant.com/",
+			"adminUrl": "https://www.cpnbatchplant.com/"
+		},
+		{
+			"name": "Bowling",
+			"publicUrl": "http://firelakebowl.com/",
+			"adminUrl": "http://firelakebowl.com/login"
+		},
+		{
+			"name": "CPCDC",
+			"publicUrl": "https://www.cpcdc.org/",
+			"adminUrl": "https://www.cpcdc.org/noek/"
+		},
+		{
+			"name": "Cultural Heritage",
+			"publicUrl": "https://www.potawatomiheritage.com/",
+			"adminUrl": "https://www.potawatomiheritage.com/nish/"
+		},
+		{
+			"name": "Designs",
+			"publicUrl": "https://www.firelakedesigns.com/",
+			"adminUrl": "https://www.firelakedesigns.com/ganestin/"
+		},
+		{
+			"name": "Gaming Commission",
+			"publicUrl": "https://www.cpngc.org/",
+			"adminUrl": "https://www.cpngc.org/nyanen/"
+		},
+		{
+			"name": "Golf",
+			"publicUrl": "https://www.firelakegolf.com/",
+			"adminUrl": "https://www.firelakegolf.com/mdatso/"
+		},
+		{
+			"name": "Gift Shop",
+			"publicUrl": "https://potawatomigifts.com/",
+			"adminUrl": "https://cpntest.myshopify.com/admin"
+		},
+		{
+			"name": "House of Hope",
+			"publicUrl": "https://www.cpnhouseofhope.com/",
+			"adminUrl": "https://www.cpnhouseofhope.com/shwatso/"
+		},
+		{
+			"name": "Iron Horse",
+			"publicUrl": "https://www.ironhorsecpn.com/",
+			"adminUrl": "https://www.ironhorsecpn.com/nyew/"
+		},
+		{
+			"name": "Jobs",
+			"publicUrl": "https://www.firelakejobs.com/",
+			"adminUrl": "https://www.firelakejobs.com/ngotwatso/"
+		},
+		{
+			"name": "Juneteenth",
+			"publicUrl": "https://juneteenthok.com/",
+			"adminUrl": "https://juneteenthok.com/shak/"
+		},
+		{
+			"name": "Leadership Program",
+			"publicUrl": "https://plp.potawatomi.org/",
+			"adminUrl": "https://plp.potawatomi.org/nso/"
+		},
+		{
+			"name": "Potawatomi",
+			"publicUrl": "https://www.potawatomi.org/",
+			"adminUrl": "https://www.potawatomi.org/ngo/"
+		}
+	]
 }
