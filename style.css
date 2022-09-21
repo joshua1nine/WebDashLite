@@ -94,7 +94,7 @@ h1 {
 }
 
 .btn.disabled {
-	color: gray;
+	fill: gray;
 	cursor: default;
 }
 

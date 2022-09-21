@@ -8,17 +8,15 @@
 		{
 			"name": "Balloon Fest",
 			"publicUrl": "https://www.firelakeballoonfest.com/",
-			"adminUrl": "https://www.firelakeballoonfest.com/azhenik/"
+			"adminUrl": "https://balloon-festival.sanity.studio/desk"
 		},
 		{
 			"name": "Ballpark",
-			"publicUrl": "http://www.theballfieldsatfirelake.com/",
-			"adminUrl": "http://www.theballfieldsatfirelake.com/login"
+			"publicUrl": "http://www.theballfieldsatfirelake.com/"
 		},
 		{
 			"name": "Batch Plant",
-			"publicUrl": "https://www.cpnbatchplant.com/",
-			"adminUrl": "https://www.cpnbatchplant.com/"
+			"publicUrl": "https://www.cpnbatchplant.com/"
 		},
 		{
 			"name": "Bowling",
@@ -36,11 +34,6 @@
 			"adminUrl": "https://www.potawatomiheritage.com/nish/"
 		},
 		{
-			"name": "Designs",
-			"publicUrl": "https://www.firelakedesigns.com/",
-			"adminUrl": "https://www.firelakedesigns.com/ganestin/"
-		},
-		{
 			"name": "Gaming Commission",
 			"publicUrl": "https://www.cpngc.org/",
 			"adminUrl": "https://www.cpngc.org/nyanen/"
@@ -48,7 +41,7 @@
 		{
 			"name": "Golf",
 			"publicUrl": "https://www.firelakegolf.com/",
-			"adminUrl": "https://www.firelakegolf.com/mdatso/"
+			"adminUrl": "https://cpn-net.com/wp-admin"
 		},
 		{
 			"name": "Gift Shop",
@@ -58,7 +51,7 @@
 		{
 			"name": "House of Hope",
 			"publicUrl": "https://www.cpnhouseofhope.com/",
-			"adminUrl": "https://www.cpnhouseofhope.com/shwatso/"
+			"adminUrl": "https://cpn-net.com/wp-admin"
 		},
 		{
 			"name": "Iron Horse",
@@ -66,14 +59,8 @@
 			"adminUrl": "https://www.ironhorsecpn.com/nyew/"
 		},
 		{
-			"name": "Jobs",
-			"publicUrl": "https://www.firelakejobs.com/",
-			"adminUrl": "https://www.firelakejobs.com/ngotwatso/"
-		},
-		{
 			"name": "Juneteenth",
-			"publicUrl": "https://juneteenthok.com/",
-			"adminUrl": "https://juneteenthok.com/shak/"
+			"publicUrl": "https://juneteenthok.com/"
 		},
 		{
 			"name": "Leadership Program",
@@ -84,6 +71,11 @@
 			"name": "Potawatomi",
 			"publicUrl": "https://www.potawatomi.org/",
 			"adminUrl": "https://www.potawatomi.org/ngo/"
+		},
+		{
+			"name": "Shawnee Aligned",
+			"publicUrl": "https://www.shawneealigned.com/",
+			"adminUrl": "https://cpn-net.com/wp-admin"
 		}
 	]
 }
